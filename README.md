@@ -9,6 +9,7 @@ Install creatify.js with npm
 
 ## Usage/Examples
 
+Image Shadow Module:
 ```javascript
 import { creatify } from 'creatify.js';
 
