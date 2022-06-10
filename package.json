@@ -1,6 +1,6 @@
 {
   "name": "creatify.js",
-  "version": "1.0.0-a",
+  "version": "1.0.0",
   "description": "A package to customize bot embeds",
   "engines": {
     "node": ">=18.0.0"
