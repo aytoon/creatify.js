@@ -13,7 +13,7 @@ Image Shadow Module:
 ```javascript
 import { creatify } from 'creatify.js';
 
-shadowControl({
+creatify({
     shadowType: 'blurShadow',
     padding: false
 })
