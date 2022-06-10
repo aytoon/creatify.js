@@ -5,20 +5,15 @@
 
 Install creatify.js with npm
 
-```bash
-  npm install creatify.js
-```
+`npm i creatify.js --save`
 
 ## Usage/Examples
 
-Find your folder to start creating your project
-
-```bash
-  cd my-website-folder
-```
-
 ```javascript
-const creatifyjs = require("creatify.js");
+import { creatify } from 'creatify.js';
 
-// Coming soon!
+shadowControl({
+    shadowType: 'blurShadow',
+    padding: false
+})
 ```

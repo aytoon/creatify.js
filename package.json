@@ -1,12 +1,12 @@
 {
   "name": "creatify.js",
-  "version": "1.0.0-a",
-  "description": "A package to customize bot embeds",
+  "version": "1.0.4-b",
+  "description": "A awesome tool to create a easy and cool css3 website. Full with helpful assets for websites",
   "engines": {
     "node": ">=18.0.0"
   },
   "files": [
-    "index.js",
+    "Modules/shadowModule.js",
     "README.md"
   ],
   "main": "index.js",
