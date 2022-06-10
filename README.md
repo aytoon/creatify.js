@@ -5,7 +5,9 @@
 
 Install creatify.js with npm
 
-`npm i creatify.js --save`
+```bash
+npm i creatify.js --save
+```
 
 ## Usage/Examples
 
