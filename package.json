@@ -1,6 +1,6 @@
 {
   "name": "creatify.js",
-  "version": "1.0.4-a",
+  "version": "1.0.5-a",
   "description": "A awesome tool to create a easy and cool css3 website. Full with helpful assets for websites",
   "files": [
     "Modules/shadowModule.js",
