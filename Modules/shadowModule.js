@@ -1,9 +1,9 @@
 function shadowControl(options) {
     let imageInput = document.querySelectorAll(".creatify")
 
- if(options.shadowType === "cornerShadow")
+ if(options.shadowType === "hard")
         options.shadowType = `0px`
-    else if(options.shadowType === "blurShadow")
+    else if(options.shadowType === "blur")
         options.shadowType = `15px`
 
     imageInput.forEach(image => {
@@ -15,4 +15,6 @@ function shadowControl(options) {
     })
 }
 
-module.exports.shadowControl = shadowControl;
+module.exports = {
+    shadowControl
+}

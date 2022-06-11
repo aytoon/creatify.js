@@ -1,3 +1,5 @@
+import shadowControl from './Modules/shadowModule'
+
 module.exports = [
-    "Modules/shadowModule"
+    shadowControl
 ]
